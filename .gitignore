@@ -1,0 +1,24 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yrn-debug.log*
+yrn-error.log*
+pnpm-debug.log*
+lern-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.locl
+
+# Editor directories nd files
+.vscode/*
+!.vscode/extensions.json
+.ide
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
